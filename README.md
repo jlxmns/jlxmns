@@ -6,7 +6,7 @@ Hello, I am Júlio, a Computer Science graduate student who's working on becomin
 -------------------
 
 ## Contact
-![ProtonMail](https://img.shields.io/badge/jlxmns@pm.me-%238B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white) <a href="https://twitter.com/jlxmns">![Twitter](https://img.shields.io/badge/jlxmns-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+[ProtonMail](https://img.shields.io/badge/jlxmns@pm.me-%238B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white) <a href="https://twitter.com/jlxmns">![Twitter](https://img.shields.io/badge/jlxmns-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
   
 -------------------
   
