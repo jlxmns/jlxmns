@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello, I am Júlio, a Computer Science graduate student who's working on becoming a Full Stack developer!
+Hello, I am Júlio, a Computer Science graduate student who's exploring the IT area to find what I like the most! Currently studying Front-end, Back-end and AWS.
   
 -------------------
 
