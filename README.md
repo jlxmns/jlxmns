@@ -19,6 +19,6 @@ My name is Júlio and I'm a Computer Science undergraduate currently exploring t
 ## Cool Projects
 [Caminho Livre UFPB](https://github.com/jlxmns/caminho-livre-ufpb)  
 [Landing Page](https://github.com/jlxmns/Landing-Page-React)  
-[Pokédex](https://github.com/jlxmns/pokedex-javascript)
+[Half Pyramid GUI](https://github.com/jlxmns/Programacao-orientada-a-objetos/tree/main)
 
 </div>
