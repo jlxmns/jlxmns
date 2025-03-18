@@ -6,7 +6,7 @@ My name is Júlio and I'm a Computer Science undergraduate currently exploring t
 -------------------
 
 ## Contact
-<a href="mailto:jlxmns@pm.me">![ProtonMail](https://img.shields.io/badge/jlxmns@pm.me-%238B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white)</a> <a href="https://twitter.com/senemixjr">![Twitter](https://img.shields.io/badge/senemixjr-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://www.linkedin.com/in/júlio-ximenes-9643b8235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:jlxmns@pm.me">![ProtonMail](https://img.shields.io/badge/jlxmns@pm.me-%238B89CC.svg?style=for-the-badge&logo=ProtonMail&logoColor=white)</a> <a href="https://www.linkedin.com/in/júlio-ximenes-9643b8235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
 -------------------
   
